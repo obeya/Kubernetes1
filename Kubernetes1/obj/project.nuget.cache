@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eo7rye0zcOVXWAamwQSX3ASlN68Sk8FvIKWdZSjy/A3WbHdVM13voQfF2Bd2S/2TbTSMG259oEuPy/U5HL1EpA==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Kubernetes1\\Kubernetes1\\Kubernetes1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obeya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\obeya\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
